@@ -1,4 +1,4 @@
-![Emmanuel Saleem Banner](https://github.com/es-77/es-77/blob/main/banner.jpg)
+![Emmanuel Saleem Banner](https://github.com/es-77/es-77/blob/main/banner_image.png)
 
 # Emmanuel Saleem 👋
 ### Full-Stack Software Engineer | Laravel • React • SaaS • Open Source
