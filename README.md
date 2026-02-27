@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Profile Logo (Optional - replace if you have one) -->
-<div style="margin: 20px 0;">
-  <img src="https://github.com/es-77/es-77/blob/main/banner_image.png" 
-       width="140" 
-       style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 136, 255, 0.35);" />
-</div>
+<p align="center">
+  <img src="https://github.com/es-77/es-77/blob/main/banner_image.png?raw=true" 
+       alt="Banner" 
+       width="100%" />
+</p>
 
 # 🚀 Emmanuel Saleem
 
