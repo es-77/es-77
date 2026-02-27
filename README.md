@@ -1,60 +1,63 @@
-![Emmanuel Saleem Banner](https://github.com/es-77/es-77/blob/main/banner_image.png)
+<div align="center">
 
-# Emmanuel Saleem 👋
-### Full-Stack Software Engineer | Laravel • React • SaaS • Open Source
+<!-- Profile Logo (Optional - replace if you have one) -->
+<div style="margin: 20px 0;">
+  <img src="https://github.com/es-77/es-77/blob/main/banner_image.png" 
+       width="140" 
+       style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 136, 255, 0.35);" />
+</div>
 
-I’m **Emmanuel Saleem**, a **Full-Stack Software Engineer from Pakistan**, specializing in **Laravel, PHP, React, TypeScript**, and scalable **SaaS applications**.
+# 🚀 Emmanuel Saleem
 
-I build:
-- ⚙️ Multi-tenant & enterprise Laravel systems  
-- ⚡ Real-time apps (Pusher, WebSockets, Chat)  
-- 📦 Open-source Composer & NPM packages  
-- 🧩 Chrome Extensions & Automation tools  
+### Senior Full-Stack Engineer | Laravel Architect | SaaS Builder
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=750&lines=Multi-Tenant+SaaS+Architect;Laravel+%7C+React+%7C+TypeScript+Expert;Open-Source+Package+Creator;Real-Time+Systems+Engineer;Building+Scalable+Enterprise+Platforms" alt="Typing Animation" />
+
+<br/><br/>
+
+<!-- Badges Section -->
+<p>
+  <a href="https://github.com/es-77">
+    <img src="https://img.shields.io/badge/Open%20Source-Contributor-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827">
+  </a>
+  <img src="https://img.shields.io/badge/SaaS-Architect-22c55e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=111827">
+  <img src="https://img.shields.io/badge/Multi--Tenant-Expert-f97316?style=for-the-badge&logo=database&logoColor=white&labelColor=111827">
+  <img src="https://img.shields.io/badge/Real--Time-Systems-ef4444?style=for-the-badge&logo=websocket&logoColor=white&labelColor=111827">
+</p>
+
+</div>
 
 ---
 
-## 🚀 Current Work
-- 🔭 Working on **N.E.M.T NextGen Platform**  
-  👉 https://stage-api.nemtnextgen.com/api
+## 👨‍💻 About Me
+
+I’m **Emmanuel Saleem**, a Full-Stack Software Engineer from Pakistan specializing in:
+
+- 🏗 Enterprise Multi-Tenant Laravel Architectures  
+- ⚡ Real-Time Applications (Pusher, WebSockets, Chat Systems)  
+- 💳 Stripe Subscription & Billing Systems  
+- 📦 Open-Source Composer & NPM Packages  
+- 🧩 Automation Tools & Chrome Extensions  
+
+I build **scalable SaaS platforms** designed for performance, security, and clean architecture.
 
 ---
 
-## 🧠 Expertise
-- Backend: **Laravel, PHP, MySQL, PostgreSQL, Redis**
-- Frontend: **React, Next.js, TypeScript, Tailwind**
-- APIs: **REST, GraphQL**
-- Payments: **Stripe**
-- Realtime: **Pusher, WebSockets**
-- DevOps: **Linux, Nginx, CI/CD**
+## 📦 Open Source Projects
 
----
-
-## 📦 Open Source Highlights
-
-### 🔹 Composer (PHP / Laravel)
+### 🔹 Laravel / PHP Packages
 - **laravel-stripe-manager** – Complete Stripe management with UI  
-- **social-auth** – OAuth with Google, Microsoft & more  
+- **social-auth** – OAuth integration (Google, Microsoft & more)  
 - **laravel-chatbot** – Database-driven chatbot system  
-- **command_me** – Generate migration, seeder, factory, controller & routes  
+- **command_me** – Generate migrations, seeders, controllers & routes  
 - **graphqlgenerator** – Auto-generate GraphQL queries  
 
-### 🔹 NPM (React / Next.js)
-- **@emmanuel-saleem/auth-ui** – Auth UI for React & Next.js  
-- **@emmanuel-saleem/moving-button** – Fun validation UX component  
-- **laravel-stripe-manager-ui** – React UI for Stripe Manager API  
-
-### 🔹 Chrome Extensions
-- **WhatsApp Web Automation**  
-- **VU Lesson Viewer Automator**  
-- **Job Search Builder (Multi-Platform)**  
-- **ClickUp Automater**
+### 🔹 React / NPM Packages
+- **@emmanuel-saleem/auth-ui** – Authentication UI for React & Next.js  
+- **@emmanuel-saleem/moving-button** – Smart validation UX component  
+- **laravel-stripe-manager-ui** – React UI for Stripe Manager  
 
 ---
 
-## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/es77  
-- 💻 GitHub: https://github.com/es-77  
-
----
-
-⚡ Fun fact: I believe **clean architecture beats clever hacks** 😄
+⚡ *Fun fact: Clean architecture beats clever hacks.*
