@@ -44,6 +44,29 @@ I build **scalable SaaS platforms** designed for performance, security, and clea
 
 ---
 
+## 📊 GitHub Stats & Contribution Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=es-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=c9d1d9" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=es-77&theme=tokyonight&hide_border=true&background=0D1117&ring=0A84FF&fire=f97316&currStreakLabel=0A84FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=es-77&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A84FF&line=22c55e&point=f97316" alt="Contribution Activity Graph" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=es-77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+> 🔗 *Live contribution graph, streaks, and language breakdown — powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).*
+
 ---
 
 ## 📦 Open Source Projects
