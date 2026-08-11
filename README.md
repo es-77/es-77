@@ -71,87 +71,174 @@ I build **scalable SaaS platforms** designed for performance, security, and clea
 
 ## 📦 Open Source Projects
 
+<div align="center">
+
 ### 🔹 Laravel / PHP Packages
 
-<p align="center">
-  <a href="https://github.com/es-77/laravel-stripe-manager">
-    <img src="https://img.shields.io/badge/💳%20Laravel%20Stripe%20Manager-View%20Project-0A84FF?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>
-</p>
+<table>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/></td>
+<td>
 
-<p align="center">
-  <a href="https://github.com/es-77/social-auth">
-    <img src="https://img.shields.io/badge/🔐%20Social%20Auth-OAuth%20System-22c55e?style=for-the-badge&logo=google&logoColor=white">
-  </a>
-</p>
+**[laravel-stripe-manager](https://github.com/es-77/laravel-stripe-manager)**
+Full Stripe subscription & billing management package for Laravel — plans, invoices, webhooks, and customer portal out of the box.
 
-<p align="center">
-  <a href="https://github.com/es-77/laravel-chatbot">
-    <img src="https://img.shields.io/badge/🤖%20Laravel%20Chatbot-AI%20System-f97316?style=for-the-badge&logo=laravel&logoColor=white">
-  </a>
-</p>
+<img src="https://img.shields.io/packagist/v/emmanuelsaleem/laravel-stripe-manager?style=flat-square&color=0A84FF&label=version"/>
+<img src="https://img.shields.io/packagist/dt/emmanuelsaleem/laravel-stripe-manager?style=flat-square&color=22c55e&label=downloads"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
 
-<p align="center">
-  <a href="https://github.com/es-77/command_me">
-    <img src="https://img.shields.io/badge/⚙️%20Command%20Me-Code%20Generator-ef4444?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-</p>
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="40"/></td>
+<td>
 
-<p align="center">
-  <a href="https://github.com/es-77/graphqlgenerator">
-    <img src="https://img.shields.io/badge/📡%20GraphQL%20Generator-Auto%20Queries-8b5cf6?style=for-the-badge&logo=graphql&logoColor=white">
-  </a>
-</p>
+**[social-auth](https://github.com/es-77/social-auth)**
+Plug-and-play OAuth authentication package — Google, Facebook, GitHub & more, wired into Laravel's auth system in minutes.
 
----
+<img src="https://img.shields.io/github/stars/es-77/social-auth?style=flat-square&color=22c55e&label=stars"/>
+<img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40"/></td>
+<td>
+
+**[laravel-chatbot](https://github.com/es-77/laravel-chatbot)**
+AI-powered conversational package for Laravel apps — drop-in chatbot widget with configurable LLM backends.
+
+<img src="https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square&color=f97316&label=stars"/>
+<img src="https://img.shields.io/badge/AI-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/php/777BB4" width="40"/></td>
+<td>
+
+**[command_me](https://github.com/es-77/command_me)**
+Artisan-style code generator that scaffolds controllers, models, and boilerplate from a single command.
+
+<img src="https://img.shields.io/github/stars/es-77/command_me?style=flat-square&color=ef4444&label=stars"/>
+<img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/graphql/E10098" width="40"/></td>
+<td>
+
+**[graphqlgenerator](https://github.com/es-77/graphqlgenerator)**
+Auto-generates GraphQL queries, mutations, and schema types directly from your Laravel models.
+
+<img src="https://img.shields.io/github/stars/es-77/graphqlgenerator?style=flat-square&color=8b5cf6&label=stars"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ### 🔹 React / NPM Packages
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@emmanuel-saleem/auth-ui">
-    <img src="https://img.shields.io/badge/🔐%20Auth%20UI-React%20Library-0A84FF?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-</p>
+<table>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/></td>
+<td>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@emmanuel-saleem/moving-button">
-    <img src="https://img.shields.io/badge/🎯%20Moving%20Button-UX%20Component-22c55e?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-</p>
+**[@emmanuel-saleem/auth-ui](https://www.npmjs.com/package/@emmanuel-saleem/auth-ui)**
+Pre-built, themeable React authentication UI components — login, signup, and password reset flows ready to import.
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/laravel-stripe-manager-ui">
-    <img src="https://img.shields.io/badge/💳%20Stripe%20UI-React%20Dashboard-f97316?style=for-the-badge&logo=stripe&logoColor=white">
-  </a>
-</p>
+<img src="https://img.shields.io/npm/v/@emmanuel-saleem/auth-ui?style=flat-square&color=0A84FF&label=npm"/>
+<img src="https://img.shields.io/npm/dw/@emmanuel-saleem/auth-ui?style=flat-square&color=22c55e&label=downloads"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/></td>
+<td>
+
+**[@emmanuel-saleem/moving-button](https://www.npmjs.com/package/@emmanuel-saleem/moving-button)**
+A playful, physics-based animated button component for React that dodges the cursor.
+
+<img src="https://img.shields.io/npm/v/@emmanuel-saleem/moving-button?style=flat-square&color=22c55e&label=npm"/>
+<img src="https://img.shields.io/npm/dw/@emmanuel-saleem/moving-button?style=flat-square&color=f97316&label=downloads"/>
+<img src="https://img.shields.io/badge/UI%2FUX-22c55e?style=flat-square&logo=framer&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40"/></td>
+<td>
+
+**[laravel-stripe-manager-ui](https://www.npmjs.com/package/laravel-stripe-manager-ui)**
+React dashboard companion for `laravel-stripe-manager` — subscription analytics, invoices, and plan management UI.
+
+<img src="https://img.shields.io/npm/v/laravel-stripe-manager-ui?style=flat-square&color=f97316&label=npm"/>
+<img src="https://img.shields.io/npm/dw/laravel-stripe-manager-ui?style=flat-square&color=0A84FF&label=downloads"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🧩 Chrome Extensions
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/emmanuel-saleemwhatsapp/gccjilimefkejmimbkdimmcbjbhjakeb">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp%20Automation-Install%20Extension-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/emmanuel-saleemvu/fbnniibljjmpakppphmjliiclkeepdnd">
-    <img src="https://img.shields.io/badge/🎓%20VU%20Automator-Install%20Extension-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-  </a>
-</p>
+<table>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/></td>
+<td>
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/emmanuel-saleem-job-searc/cgplolemaiffhgjhalagljaaklkdhfko">
-    <img src="https://img.shields.io/badge/💼%20Job%20Search%20Builder-Multi--Platform-22c55e?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+**[WhatsApp Automation](https://chromewebstore.google.com/detail/emmanuel-saleemwhatsapp/gccjilimefkejmimbkdimmcbjbhjakeb)**
+Automates bulk messaging, scheduled sends, and contact management inside WhatsApp Web.
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/emmanuel-saleem-clickup-a/pmffnmibgikmjlofdnkfnahdohfdaocd">
-    <img src="https://img.shields.io/badge/⚡%20ClickUp%20Automater-Productivity%20Tool-f97316?style=for-the-badge&logo=clickup&logoColor=white">
-  </a>
-</p>
+</td>
+<td><img src="https://img.shields.io/badge/Install-25D366?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/googlechrome/0A84FF" width="40"/></td>
+<td>
+
+**[VU Automator](https://chromewebstore.google.com/detail/emmanuel-saleemvu/fbnniibljjmpakppphmjliiclkeepdnd)**
+Automates repetitive tasks on the Virtual University portal to save students hours every semester.
+
+</td>
+<td><img src="https://img.shields.io/badge/Install-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/></td>
+<td>
+
+**[Job Search Builder](https://chromewebstore.google.com/detail/emmanuel-saleem-job-searc/cgplolemaiffhgjhalagljaaklkdhfko)**
+Multi-platform job application assistant — auto-fills applications across LinkedIn, Indeed, and more.
+
+</td>
+<td><img src="https://img.shields.io/badge/Install-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
+</tr>
+<tr>
+<td width="60" align="center"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="40"/></td>
+<td>
+
+**[ClickUp Automater](https://chromewebstore.google.com/detail/emmanuel-saleem-clickup-a/pmffnmibgikmjlofdnkfnahdohfdaocd)**
+Streamlines ClickUp workflows with one-click task creation, status updates, and shortcuts.
+
+</td>
+<td><img src="https://img.shields.io/badge/Install-f97316?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
