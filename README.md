@@ -1,30 +1,21 @@
-<div align="center">
+<img src="./wallpaper.jpg" alt="Emmanuel Saleem banner" width="100%" />
 
-<!-- Profile Logo (Optional - replace if you have one) -->
-<p align="center">
-  <img src="https://github.com/es-77/es-77/blob/main/banner_image.png?raw=true" 
-       alt="Banner" 
-       width="100%" />
-</p>
+<div align="center">
 
 # 🚀 Emmanuel Saleem
 
 ### Senior Full-Stack Engineer | Laravel Architect | SaaS Builder
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=750&lines=Multi-Tenant+SaaS+Architect;Laravel+%7C+React+%7C+TypeScript+Expert;Open-Source+Package+Creator;Real-Time+Systems+Engineer;Building+Scalable+Enterprise+Platforms" alt="Typing Animation" />
+<a href="https://github.com/es-77">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Multi-Tenant+SaaS+with+Laravel;Real-Time+Apps+with+WebSockets+%26+Pusher;Stripe+Billing+%26+Subscriptions+Expert;Shipping+Open-Source+Composer+%26+NPM+Packages;Currently+levelling+up+on+AWS+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
+</a>
 
-<br/><br/>
+<br/>
 
-<!-- Badges Section -->
-<p>
-  <a href="https://github.com/es-77">
-    <img src="https://img.shields.io/badge/Open%20Source-Contributor-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=111827">
-  </a>
-  <img src="https://img.shields.io/badge/SaaS-Architect-22c55e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=111827">
-  <img src="https://img.shields.io/badge/Multi--Tenant-Expert-f97316?style=for-the-badge&logo=database&logoColor=white&labelColor=111827">
-  <img src="https://img.shields.io/badge/Real--Time-Systems-ef4444?style=for-the-badge&logo=websocket&logoColor=white&labelColor=111827">
-</p>
+<a href="https://github.com/es-77?tab=followers"><img src="https://img.shields.io/github/followers/es-77?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="Followers" /></a>
+<a href="https://github.com/es-77?tab=repositories"><img src="https://img.shields.io/github/stars/es-77?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=f7c948&logo=github" alt="Total Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=es-77&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-2ea44f?style=for-the-badge" alt="Open to work" />
 
 </div>
 
@@ -32,15 +23,88 @@
 
 ## 👨‍💻 About Me
 
-I’m **Emmanuel Saleem**, a Full-Stack Software Engineer from Pakistan specializing in:
+I’m **Emmanuel Saleem**, a Full-Stack Software Engineer from Pakistan 🇵🇰 who turns complex business problems into **scalable, secure SaaS products**.
 
-- 🏗 Enterprise Multi-Tenant Laravel Architectures  
-- ⚡ Real-Time Applications (Pusher, WebSockets, Chat Systems)  
-- 💳 Stripe Subscription & Billing Systems  
-- 📦 Open-Source Composer & NPM Packages  
-- 🧩 Automation Tools & Chrome Extensions  
+```php
+<?php
 
-I build **scalable SaaS platforms** designed for performance, security, and clean architecture.
+class EmmanuelSaleem
+{
+    public string $role      = 'Senior Full-Stack Engineer';
+    public string $location  = 'Pakistan 🇵🇰';
+    public array  $backend   = ['Laravel', 'PHP', 'Node.js', 'GraphQL', 'MySQL', 'PostgreSQL', 'Redis'];
+    public array  $frontend  = ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'];
+    public array  $realtime  = ['Pusher', 'Laravel Reverb', 'WebSockets'];
+    public array  $payments  = ['Stripe Subscriptions', 'Invoices', 'Webhooks'];
+    public array  $cloud     = ['AWS (EC2, VPC, Security Groups)', 'Docker', 'Linux'];
+    public string $motto     = 'Clean architecture beats clever hacks.';
+
+    public function currentlyLearning(): array
+    {
+        return ['AWS Networking & Security', 'Infrastructure as Code', 'System Design at Scale'];
+    }
+}
+```
+
+### 🔭 What I'm Doing Right Now
+
+- 🏫 Building a **multi-tenant School Management SaaS** (Laravel + Next.js 15) with chat, 2FA, ACL, and a form builder
+- 🎙️ Shipping an **Electron desktop app** — an AI interview & meeting copilot
+- ☁️ Learning **AWS** hands-on — EC2, VPC, Security Groups and deployments
+- 📦 Maintaining my open-source **Laravel & React packages** listed below
+
+### 💼 How I Can Help You
+
+| 🛠 Service | ✅ What you get |
+|---|---|
+| **SaaS Architecture** | Multi-tenant Laravel apps with tenant isolation, roles & permissions |
+| **Billing Integration** | Stripe subscriptions, trials, invoices, coupons and webhooks done right |
+| **Real-Time Features** | Live chat, notifications and dashboards with WebSockets / Pusher / Reverb |
+| **APIs** | Clean REST & GraphQL APIs with auth, docs and tests |
+| **Automation** | Chrome extensions and bots that remove hours of repetitive work |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Backend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="42" height="42" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="42" height="42" /></picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" title="Electron" width="42" height="42" />
+</p>
+
+**Cloud & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42" /></picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="42" height="42" />
+</p>
+
+</div>
 
 ---
 
@@ -48,198 +112,116 @@ I build **scalable SaaS platforms** designed for performance, security, and clea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=es-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&icon_color=22c55e&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=es-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es-77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=es-77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com/?user=es-77&theme=tokyonight&hide_border=true&background=0D1117&ring=0A84FF&fire=f97316&currStreakLabel=0A84FF" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=es-77&theme=tokyonight" alt="Contribution Activity Graph" width="100%" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=es-77&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0A84FF&line=22c55e&point=f97316" alt="Contribution Activity Graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=es-77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=es-77&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
-> 🔗 *Live contribution graph, streaks, and language breakdown — powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph).*
+> 🔗 *Live contribution graph, streaks, and language breakdown — powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).*
 
 ---
 
 ## 📦 Open Source Projects
 
-<div align="center">
+> ⭐ If one of these saves you time, a star helps others find it!
 
 ### 🔹 Laravel / PHP Packages
 
-<table>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40"/></td>
-<td>
+| Package | Description | Stats |
+|---|---|---|
+| [**laravel-stripe-manager**](https://github.com/es-77/laravel-stripe-manager) | Full Stripe subscription & billing management for Laravel — plans, invoices, webhooks, and customer portal out of the box. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-stripe-manager?style=flat-square) |
+| [**social-auth**](https://github.com/es-77/social-auth) | Plug-and-play OAuth — Google, Facebook, GitHub & more, wired into Laravel's auth in minutes. | ![Stars](https://img.shields.io/github/stars/es-77/social-auth?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/social-auth?style=flat-square) |
+| [**laravel-chatbot**](https://github.com/es-77/laravel-chatbot) | AI-powered drop-in chatbot widget for Laravel with configurable LLM backends. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-chatbot?style=flat-square) |
+| [**command_me**](https://github.com/es-77/command-me) | Artisan-style generator that scaffolds controllers, models, and boilerplate from one command. | ![Stars](https://img.shields.io/github/stars/es-77/command-me?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/command-me?style=flat-square) |
+| [**graphqlgenerator**](https://github.com/es-77/graphql_generator) | Auto-generates GraphQL queries, mutations, and schema types from your Laravel models. | ![Stars](https://img.shields.io/github/stars/es-77/graphql_generator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/graphql_generator?style=flat-square) |
 
-**[laravel-stripe-manager](https://github.com/es-77/laravel-stripe-manager)**
-Full Stripe subscription & billing management package for Laravel — plans, invoices, webhooks, and customer portal out of the box.
+<details>
+<summary>⚡ <b>Quick start — install a Laravel package</b></summary>
 
-<img src="https://img.shields.io/packagist/v/emmanuelsaleem/laravel-stripe-manager?style=flat-square&color=0A84FF&label=version"/>
-<img src="https://img.shields.io/packagist/dt/emmanuelsaleem/laravel-stripe-manager?style=flat-square&color=22c55e&label=downloads"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+```bash
+# Stripe billing for Laravel
+composer require es-77/laravel-stripe-manager
 
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/google/4285F4" width="40"/></td>
-<td>
+# Social login (Google, Facebook, GitHub...)
+composer require es-77/social-auth
+```
 
-**[social-auth](https://github.com/es-77/social-auth)**
-Plug-and-play OAuth authentication package — Google, Facebook, GitHub & more, wired into Laravel's auth system in minutes.
-
-<img src="https://img.shields.io/github/stars/es-77/social-auth?style=flat-square&color=22c55e&label=stars"/>
-<img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/openai/10A37F" width="40"/></td>
-<td>
-
-**[laravel-chatbot](https://github.com/es-77/laravel-chatbot)**
-AI-powered conversational package for Laravel apps — drop-in chatbot widget with configurable LLM backends.
-
-<img src="https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square&color=f97316&label=stars"/>
-<img src="https://img.shields.io/badge/AI-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/php/777BB4" width="40"/></td>
-<td>
-
-**[command_me](https://github.com/es-77/command_me)**
-Artisan-style code generator that scaffolds controllers, models, and boilerplate from a single command.
-
-<img src="https://img.shields.io/github/stars/es-77/command_me?style=flat-square&color=ef4444&label=stars"/>
-<img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/graphql/E10098" width="40"/></td>
-<td>
-
-**[graphqlgenerator](https://github.com/es-77/graphqlgenerator)**
-Auto-generates GraphQL queries, mutations, and schema types directly from your Laravel models.
-
-<img src="https://img.shields.io/github/stars/es-77/graphqlgenerator?style=flat-square&color=8b5cf6&label=stars"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-
-</td>
-</tr>
-</table>
+</details>
 
 ### 🔹 React / NPM Packages
 
-<table>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/></td>
-<td>
+| Package | Description | Stats |
+|---|---|---|
+| [**@emmanuel-saleem/auth-ui**](https://www.npmjs.com/package/@emmanuel-saleem/auth-ui) | Themeable React auth components — login, signup, and password reset flows ready to import. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/auth-ui?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/auth-ui?style=flat-square) |
+| [**@emmanuel-saleem/moving-button**](https://www.npmjs.com/package/@emmanuel-saleem/moving-button) | A playful, physics-based animated React button that dodges the cursor. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/moving-button?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/moving-button?style=flat-square) |
+| [**laravel-stripe-manager-ui**](https://github.com/es-77/laravel-stripe-manager-ui) | React dashboard for laravel-stripe-manager — subscription analytics, invoices, and plan management. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager-ui?style=flat-square) |
 
-**[@emmanuel-saleem/auth-ui](https://www.npmjs.com/package/@emmanuel-saleem/auth-ui)**
-Pre-built, themeable React authentication UI components — login, signup, and password reset flows ready to import.
+<details>
+<summary>⚡ <b>Quick start — install a React package</b></summary>
 
-<img src="https://img.shields.io/npm/v/@emmanuel-saleem/auth-ui?style=flat-square&color=0A84FF&label=npm"/>
-<img src="https://img.shields.io/npm/dw/@emmanuel-saleem/auth-ui?style=flat-square&color=22c55e&label=downloads"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+```bash
+npm install @emmanuel-saleem/auth-ui
+npm install @emmanuel-saleem/moving-button
+```
 
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/></td>
-<td>
+```jsx
+import { LoginForm } from '@emmanuel-saleem/auth-ui';
 
-**[@emmanuel-saleem/moving-button](https://www.npmjs.com/package/@emmanuel-saleem/moving-button)**
-A playful, physics-based animated button component for React that dodges the cursor.
+export default function Login() {
+  return <LoginForm onSubmit={(data) => console.log(data)} />;
+}
+```
 
-<img src="https://img.shields.io/npm/v/@emmanuel-saleem/moving-button?style=flat-square&color=22c55e&label=npm"/>
-<img src="https://img.shields.io/npm/dw/@emmanuel-saleem/moving-button?style=flat-square&color=f97316&label=downloads"/>
-<img src="https://img.shields.io/badge/UI%2FUX-22c55e?style=flat-square&logo=framer&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/stripe/635BFF" width="40"/></td>
-<td>
-
-**[laravel-stripe-manager-ui](https://www.npmjs.com/package/laravel-stripe-manager-ui)**
-React dashboard companion for `laravel-stripe-manager` — subscription analytics, invoices, and plan management UI.
-
-<img src="https://img.shields.io/npm/v/laravel-stripe-manager-ui?style=flat-square&color=f97316&label=npm"/>
-<img src="https://img.shields.io/npm/dw/laravel-stripe-manager-ui?style=flat-square&color=0A84FF&label=downloads"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+</details>
 
 ---
 
 ## 🧩 Chrome Extensions
 
+| Extension | What it automates | Saves you |
+|---|---|---|
+| 💬 [**WhatsApp Automation**](https://github.com/es-77/my-extension-support) | Bulk messaging, scheduled sends, and contact management in WhatsApp Web | Hours of manual messaging |
+| 🎓 [**VU Automator**](https://github.com/es-77/my-vu-extension-support) | Repetitive tasks on the Virtual University portal | Hours every semester |
+| 💼 [**Job Search Builder**](https://github.com/es-77/my-job-search-extension-support) | Auto-fills applications across LinkedIn, Indeed, and more | Dozens of copy-pastes per application |
+| ✅ [**ClickUp Automater**](https://github.com/es-77/my-clickup-extension-support) | One-click task creation, status updates, and shortcuts | Clicks on every task |
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<table>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40"/></td>
-<td>
-
-**[WhatsApp Automation](https://chromewebstore.google.com/detail/emmanuel-saleemwhatsapp/gccjilimefkejmimbkdimmcbjbhjakeb)**
-Automates bulk messaging, scheduled sends, and contact management inside WhatsApp Web.
-
-</td>
-<td><img src="https://img.shields.io/badge/Install-25D366?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/googlechrome/0A84FF" width="40"/></td>
-<td>
-
-**[VU Automator](https://chromewebstore.google.com/detail/emmanuel-saleemvu/fbnniibljjmpakppphmjliiclkeepdnd)**
-Automates repetitive tasks on the Virtual University portal to save students hours every semester.
-
-</td>
-<td><img src="https://img.shields.io/badge/Install-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/></td>
-<td>
-
-**[Job Search Builder](https://chromewebstore.google.com/detail/emmanuel-saleem-job-searc/cgplolemaiffhgjhalagljaaklkdhfko)**
-Multi-platform job application assistant — auto-fills applications across LinkedIn, Indeed, and more.
-
-</td>
-<td><img src="https://img.shields.io/badge/Install-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
-</tr>
-<tr>
-<td width="60" align="center"><img src="https://cdn.simpleicons.org/clickup/7B68EE" width="40"/></td>
-<td>
-
-**[ClickUp Automater](https://chromewebstore.google.com/detail/emmanuel-saleem-clickup-a/pmffnmibgikmjlofdnkfnahdohfdaocd)**
-Streamlines ClickUp workflows with one-click task creation, status updates, and shortcuts.
-
-</td>
-<td><img src="https://img.shields.io/badge/Install-f97316?style=for-the-badge&logo=googlechrome&logoColor=white"/></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-77/es-77/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/es-77/es-77/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/es-77"><img src="https://img.shields.io/badge/GitHub-es--77-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.npmjs.com/~emmanuel-saleem"><img src="https://img.shields.io/badge/npm-emmanuel--saleem-CB3837?style=for-the-badge&logo=npm" alt="npm" /></a>
+<!-- Add your links: -->
+<!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+<!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
+
+**💡 Have a SaaS idea, a billing headache, or a workflow to automate? Open an issue on any repo or reach out — I reply fast.**
+
+<br/>
+
 ⚡ *Fun fact: Clean architecture beats clever hacks.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
