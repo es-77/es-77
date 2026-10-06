@@ -14,7 +14,7 @@
 
 <a href="https://github.com/es-77?tab=followers"><img src="https://img.shields.io/github/followers/es-77?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="Followers" /></a>
 <a href="https://github.com/es-77?tab=repositories"><img src="https://img.shields.io/github/stars/es-77?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=f7c948&logo=github" alt="Total Stars" /></a>
-<img src="https://komarev.com/ghpvc/?username=es-77&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=es-77.es-77&left_text=PROFILE%20VIEWS&left_color=555555&right_color=0e75b6" alt="Profile Views" height="28" />
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Remote-2ea44f?style=for-the-badge" alt="Open to work" />
 
 </div>
@@ -25,26 +25,17 @@
 
 I’m **Emmanuel Saleem**, a Full-Stack Software Engineer from Pakistan 🇵🇰 who turns complex business problems into **scalable, secure SaaS products**.
 
-```php
-<?php
-
-class EmmanuelSaleem
-{
-    public string $role      = 'Senior Full-Stack Engineer';
-    public string $location  = 'Pakistan 🇵🇰';
-    public array  $backend   = ['Laravel', 'PHP', 'Node.js', 'GraphQL', 'MySQL', 'PostgreSQL', 'Redis'];
-    public array  $frontend  = ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'];
-    public array  $realtime  = ['Pusher', 'Laravel Reverb', 'WebSockets'];
-    public array  $payments  = ['Stripe Subscriptions', 'Invoices', 'Webhooks'];
-    public array  $cloud     = ['AWS (EC2, VPC, Security Groups)', 'Docker', 'Linux'];
-    public string $motto     = 'Clean architecture beats clever hacks.';
-
-    public function currentlyLearning(): array
-    {
-        return ['AWS Networking & Security', 'Infrastructure as Code', 'System Design at Scale'];
-    }
-}
-```
+| | |
+|---|---|
+| 💼 **Role** | Senior Full-Stack Engineer |
+| 📍 **Location** | Pakistan 🇵🇰 |
+| ⚙️ **Backend** | Laravel · PHP · Node.js · GraphQL · MySQL · PostgreSQL · Redis |
+| 🎨 **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| ⚡ **Real-Time** | Pusher · Laravel Reverb · WebSockets |
+| 💳 **Payments** | Stripe Subscriptions · Invoices · Webhooks |
+| ☁️ **Cloud** | AWS (EC2, VPC, Security Groups) · Docker · Linux |
+| 🌱 **Learning** | AWS Networking & Security · Infrastructure as Code · System Design at Scale |
+| 💬 **Motto** | *Clean architecture beats clever hacks.* |
 
 ### 🔭 What I'm Doing Right Now
 
@@ -135,21 +126,21 @@ class EmmanuelSaleem
 
 | Package | Description | Stats |
 |---|---|---|
-| [**laravel-stripe-manager**](https://github.com/es-77/laravel-stripe-manager) | Full Stripe subscription & billing management for Laravel — plans, invoices, webhooks, and customer portal out of the box. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-stripe-manager?style=flat-square) |
-| [**social-auth**](https://github.com/es-77/social-auth) | Plug-and-play OAuth — Google, Facebook, GitHub & more, wired into Laravel's auth in minutes. | ![Stars](https://img.shields.io/github/stars/es-77/social-auth?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/social-auth?style=flat-square) |
-| [**laravel-chatbot**](https://github.com/es-77/laravel-chatbot) | AI-powered drop-in chatbot widget for Laravel with configurable LLM backends. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-chatbot?style=flat-square) |
-| [**command_me**](https://github.com/es-77/command-me) | Artisan-style generator that scaffolds controllers, models, and boilerplate from one command. | ![Stars](https://img.shields.io/github/stars/es-77/command-me?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/command-me?style=flat-square) |
-| [**graphqlgenerator**](https://github.com/es-77/graphql_generator) | Auto-generates GraphQL queries, mutations, and schema types from your Laravel models. | ![Stars](https://img.shields.io/github/stars/es-77/graphql_generator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/graphql_generator?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**laravel-stripe-manager**](https://github.com/es-77/laravel-stripe-manager) | Full Stripe subscription & billing management for Laravel — plans, invoices, webhooks, and customer portal out of the box. | [![Downloads](https://img.shields.io/packagist/dt/emmanuelsaleem/laravel-stripe-manager?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuelsaleem/laravel-stripe-manager) ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-stripe-manager?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**social-auth**](https://github.com/es-77/social-auth) | Plug-and-play OAuth — Google, Facebook, GitHub & more, wired into Laravel's auth in minutes. | ![Stars](https://img.shields.io/github/stars/es-77/social-auth?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/social-auth?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**laravel-chatbot**](https://github.com/es-77/laravel-chatbot) | AI-powered drop-in chatbot widget for Laravel with configurable LLM backends. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-chatbot?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**command_me**](https://github.com/es-77/command-me) | Artisan-style generator that scaffolds controllers, models, and boilerplate from one command. | ![Stars](https://img.shields.io/github/stars/es-77/command-me?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/command-me?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**graphqlgenerator**](https://github.com/es-77/graphql_generator) | Auto-generates GraphQL queries, mutations, and schema types from your Laravel models. | [![Downloads](https://img.shields.io/packagist/dt/emmanuelsaleem/graphqlgenerator?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuelsaleem/graphqlgenerator) ![Stars](https://img.shields.io/github/stars/es-77/graphql_generator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/graphql_generator?style=flat-square) |
 
 <details>
 <summary>⚡ <b>Quick start — install a Laravel package</b></summary>
 
 ```bash
 # Stripe billing for Laravel
-composer require es-77/laravel-stripe-manager
+composer require emmanuelsaleem/laravel-stripe-manager
 
-# Social login (Google, Facebook, GitHub...)
-composer require es-77/social-auth
+# GraphQL schema & query generator
+composer require emmanuelsaleem/graphqlgenerator
 ```
 
 </details>
@@ -158,9 +149,9 @@ composer require es-77/social-auth
 
 | Package | Description | Stats |
 |---|---|---|
-| [**@emmanuel-saleem/auth-ui**](https://www.npmjs.com/package/@emmanuel-saleem/auth-ui) | Themeable React auth components — login, signup, and password reset flows ready to import. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/auth-ui?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/auth-ui?style=flat-square) |
-| [**@emmanuel-saleem/moving-button**](https://www.npmjs.com/package/@emmanuel-saleem/moving-button) | A playful, physics-based animated React button that dodges the cursor. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/moving-button?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/moving-button?style=flat-square) |
-| [**laravel-stripe-manager-ui**](https://github.com/es-77/laravel-stripe-manager-ui) | React dashboard for laravel-stripe-manager — subscription analytics, invoices, and plan management. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager-ui?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="18" alt="npm" /> [**@emmanuel-saleem/auth-ui**](https://www.npmjs.com/package/@emmanuel-saleem/auth-ui) | Themeable React auth components — login, signup, and password reset flows ready to import. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/auth-ui?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/auth-ui?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="18" alt="npm" /> [**@emmanuel-saleem/moving-button**](https://www.npmjs.com/package/@emmanuel-saleem/moving-button) | A playful, physics-based animated React button that dodges the cursor. | ![npm](https://img.shields.io/npm/v/@emmanuel-saleem/moving-button?style=flat-square) ![downloads](https://img.shields.io/npm/dm/@emmanuel-saleem/moving-button?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="18" alt="React" /> [**laravel-stripe-manager-ui**](https://github.com/es-77/laravel-stripe-manager-ui) | React dashboard for laravel-stripe-manager — subscription analytics, invoices, and plan management. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager-ui?style=flat-square) |
 
 <details>
 <summary>⚡ <b>Quick start — install a React package</b></summary>
@@ -186,10 +177,10 @@ export default function Login() {
 
 | Extension | What it automates | Saves you |
 |---|---|---|
-| 💬 [**WhatsApp Automation**](https://github.com/es-77/my-extension-support) | Bulk messaging, scheduled sends, and contact management in WhatsApp Web | Hours of manual messaging |
-| 🎓 [**VU Automator**](https://github.com/es-77/my-vu-extension-support) | Repetitive tasks on the Virtual University portal | Hours every semester |
-| 💼 [**Job Search Builder**](https://github.com/es-77/my-job-search-extension-support) | Auto-fills applications across LinkedIn, Indeed, and more | Dozens of copy-pastes per application |
-| ✅ [**ClickUp Automater**](https://github.com/es-77/my-clickup-extension-support) | One-click task creation, status updates, and shortcuts | Clicks on every task |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💬 [**WhatsApp Automation**](https://github.com/es-77/my-extension-support) | Bulk messaging, scheduled sends, and contact management in WhatsApp Web | Hours of manual messaging |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 🎓 [**VU Automator**](https://github.com/es-77/my-vu-extension-support) | Repetitive tasks on the Virtual University portal | Hours every semester |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💼 [**Job Search Builder**](https://github.com/es-77/my-job-search-extension-support) | Auto-fills applications across LinkedIn, Indeed, and more | Dozens of copy-pastes per application |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> ✅ [**ClickUp Automater**](https://github.com/es-77/my-clickup-extension-support) | One-click task creation, status updates, and shortcuts | Clicks on every task |
 
 ---
 
@@ -212,8 +203,9 @@ export default function Login() {
 
 <a href="https://github.com/es-77"><img src="https://img.shields.io/badge/GitHub-es--77-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="https://www.npmjs.com/~emmanuel-saleem"><img src="https://img.shields.io/badge/npm-emmanuel--saleem-CB3837?style=for-the-badge&logo=npm" alt="npm" /></a>
-<!-- Add your links: -->
-<!-- <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+<a href="https://www.linkedin.com/in/es77"><img src="https://img.shields.io/badge/LinkedIn-es77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://packagist.org/packages/emmanuelsaleem/"><img src="https://img.shields.io/badge/Packagist-emmanuelsaleem-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist" /></a>
+<!-- Add your email: -->
 <!-- <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 
 **💡 Have a SaaS idea, a billing headache, or a workflow to automate? Open an issue on any repo or reach out — I reply fast.**
