@@ -127,10 +127,14 @@ I’m **Emmanuel Saleem**, a Full-Stack Software Engineer from Pakistan 🇵🇰
 | Package | Description | Stats |
 |---|---|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**laravel-stripe-manager**](https://github.com/es-77/laravel-stripe-manager) | Full Stripe subscription & billing management for Laravel — plans, invoices, webhooks, and customer portal out of the box. | [![Downloads](https://img.shields.io/packagist/dt/emmanuelsaleem/laravel-stripe-manager?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuelsaleem/laravel-stripe-manager) ![Stars](https://img.shields.io/github/stars/es-77/laravel-stripe-manager?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-stripe-manager?style=flat-square) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**social-auth**](https://github.com/es-77/social-auth) | Plug-and-play OAuth — Google, Facebook, GitHub & more, wired into Laravel's auth in minutes. | ![Stars](https://img.shields.io/github/stars/es-77/social-auth?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/social-auth?style=flat-square) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**laravel-chatbot**](https://github.com/es-77/laravel-chatbot) | AI-powered drop-in chatbot widget for Laravel with configurable LLM backends. | ![Stars](https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-chatbot?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**social-auth**](https://github.com/es-77/social-auth) | Plug-and-play OAuth — Google, Facebook, GitHub & more, wired into Laravel's auth in minutes. | [![Downloads](https://img.shields.io/packagist/dt/emmanuel-saleem/social-auth?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuel-saleem/social-auth) ![Stars](https://img.shields.io/github/stars/es-77/social-auth?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/social-auth?style=flat-square) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**laravel-chatbot**](https://github.com/es-77/laravel-chatbot) | Database-driven Q&A / FAQ / support chatbot — keyword AND/OR intents, conditional replies, buttons, variable substitution, BotMan integration, admin UI and a floating chat widget (Laravel 8–12). | [![Downloads](https://img.shields.io/packagist/dt/emmanuel-saleem/laravel-chatbot?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuel-saleem/laravel-chatbot) ![Version](https://img.shields.io/packagist/v/emmanuel-saleem/laravel-chatbot?style=flat-square) ![Stars](https://img.shields.io/github/stars/es-77/laravel-chatbot?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/laravel-chatbot?style=flat-square) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**command_me**](https://github.com/es-77/command-me) | Artisan-style generator that scaffolds controllers, models, and boilerplate from one command. | ![Stars](https://img.shields.io/github/stars/es-77/command-me?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/command-me?style=flat-square) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="18" alt="Laravel" /> [**graphqlgenerator**](https://github.com/es-77/graphql_generator) | Auto-generates GraphQL queries, mutations, and schema types from your Laravel models. | [![Downloads](https://img.shields.io/packagist/dt/emmanuelsaleem/graphqlgenerator?style=flat-square&logo=packagist&logoColor=white)](https://packagist.org/packages/emmanuelsaleem/graphqlgenerator) ![Stars](https://img.shields.io/github/stars/es-77/graphql_generator?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/es-77/graphql_generator?style=flat-square) |
+
+**📚 Also indexed on:**
+<a href="https://libraries.io/packagist/emmanuel-saleem%2Flaravel-chatbot"><img src="https://img.shields.io/badge/Libraries.io-laravel--chatbot-337AB7?style=flat-square&logo=librariesdotio&logoColor=white" alt="Libraries.io" /></a>
+<a href="https://php-download.com/package/emmanuel-saleem"><img src="https://img.shields.io/badge/PHP%20Download-emmanuel--saleem-F7931E?style=flat-square&logo=php&logoColor=white" alt="PHP Download" /></a>
 
 <details>
 <summary>⚡ <b>Quick start — install a Laravel package</b></summary>
@@ -141,6 +145,12 @@ composer require emmanuelsaleem/laravel-stripe-manager
 
 # GraphQL schema & query generator
 composer require emmanuelsaleem/graphqlgenerator
+
+# Database-driven chatbot (BotMan)
+composer require emmanuel-saleem/laravel-chatbot
+
+# Social OAuth login
+composer require emmanuel-saleem/social-auth
 ```
 
 </details>
@@ -175,12 +185,45 @@ export default function Login() {
 
 ## 🧩 Chrome Extensions
 
-| Extension | What it automates | Saves you |
+> 🟢 My **WhatsApp Automation** extension is now listed on **Softonic** — rated ⭐ 4.1 with a ✅ *Trusted Program* safety badge.
+
+<a href="https://emmanuel-saleemwhatsapp.en.softonic.com/chrome/extension"><img src="https://img.shields.io/badge/Softonic-Download%20Free-1E9BF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download on Softonic" /></a>
+<img src="https://img.shields.io/badge/Rating-4.1%20%E2%98%85-f7c948?style=for-the-badge" alt="Rating 4.1" />
+<img src="https://img.shields.io/badge/Softonic-Trusted%20Program-2ea44f?style=for-the-badge" alt="Trusted Program" />
+
+| Extension | What it automates | Saves you | Get it |
+|---|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💬 [**WhatsApp Automation**](https://github.com/es-77/my-extension-support) | Bulk messaging, scheduled sends, and contact management in WhatsApp Web | Hours of manual messaging | [Softonic](https://emmanuel-saleemwhatsapp.en.softonic.com/chrome/extension) · [GitHub](https://github.com/es-77/my-extension-support) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 🎓 [**VU Automator**](https://github.com/es-77/my-vu-extension-support) | Repetitive tasks on the Virtual University portal | Hours every semester | [GitHub](https://github.com/es-77/my-vu-extension-support) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💼 [**Job Search Builder**](https://github.com/es-77/my-job-search-extension-support) | Auto-fills applications across LinkedIn, Indeed, and more | Dozens of copy-pastes per application | [GitHub](https://github.com/es-77/my-job-search-extension-support) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> ✅ [**ClickUp Automater**](https://github.com/es-77/my-clickup-extension-support) | One-click task creation, status updates, and shortcuts | Clicks on every task | [GitHub](https://github.com/es-77/my-clickup-extension-support) |
+
+---
+
+## 📱 Android Apps on Google Play
+
+> 🎓 Companion mobile apps for my **School / College / University ERP** — published under **Next Gen Service**.
+
+<a href="https://play.google.com/store/apps/dev?id=8335451697679539324"><img src="https://img.shields.io/badge/Google%20Play-Get%20the%20apps-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+
+| App | Who it's for | What it does |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💬 [**WhatsApp Automation**](https://github.com/es-77/my-extension-support) | Bulk messaging, scheduled sends, and contact management in WhatsApp Web | Hours of manual messaging |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 🎓 [**VU Automator**](https://github.com/es-77/my-vu-extension-support) | Repetitive tasks on the Virtual University portal | Hours every semester |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> 💼 [**Job Search Builder**](https://github.com/es-77/my-job-search-extension-support) | Auto-fills applications across LinkedIn, Indeed, and more | Dozens of copy-pastes per application |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="18" alt="Chrome" /> ✅ [**ClickUp Automater**](https://github.com/es-77/my-clickup-extension-support) | One-click task creation, status updates, and shortcuts | Clicks on every task |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="18" alt="Android" /> 👨‍👩‍👧 [**NGS Parent and Student**](https://play.google.com/store/apps/dev?id=8335451697679539324) | Parents & students | Attendance, results, fees, timetables, and school announcements on the go |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="18" alt="Android" /> 🧑‍🏫 [**NGS Employee**](https://play.google.com/store/apps/dev?id=8335451697679539324) | Teachers & staff | Class management, attendance marking, and staff tools for the institution |
+
+---
+
+## ✍️ Writing on DEV Community
+
+<a href="https://dev.to/emmanuel_saleem_46200ad37"><img src="https://img.shields.io/badge/DEV.to-emmanuel__saleem-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
+
+I write about Laravel, SaaS architecture, real-time apps, automation, and what I learn building in public.
+
+**📰 Latest posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Read my posts on DEV →](https://dev.to/emmanuel_saleem_46200ad37)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -202,7 +245,9 @@ export default function Login() {
 <div align="center">
 
 <a href="https://github.com/es-77"><img src="https://img.shields.io/badge/GitHub-es--77-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8335451697679539324"><img src="https://img.shields.io/badge/Google%20Play-emmanuel%20saleem-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 <a href="https://www.npmjs.com/~emmanuel-saleem"><img src="https://img.shields.io/badge/npm-emmanuel--saleem-CB3837?style=for-the-badge&logo=npm" alt="npm" /></a>
+<a href="https://dev.to/emmanuel_saleem_46200ad37"><img src="https://img.shields.io/badge/DEV-emmanuel__saleem-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community" /></a>
 <a href="https://www.linkedin.com/in/es77"><img src="https://img.shields.io/badge/LinkedIn-es77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://packagist.org/packages/emmanuelsaleem/"><img src="https://img.shields.io/badge/Packagist-emmanuelsaleem-F28D1A?style=for-the-badge&logo=packagist&logoColor=white" alt="Packagist" /></a>
 <!-- Add your email: -->
