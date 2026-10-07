@@ -222,7 +222,11 @@ I write about Laravel, SaaS architecture, real-time apps, automation, and what I
 **📰 Latest posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Read my posts on DEV →](https://dev.to/emmanuel_saleem_46200ad37)
+- [🚀 I Built a WhatsApp Web Automation Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/emmanuel_saleem_46200ad37/i-built-a-whatsapp-web-automation-chrome-extension-manifest-v3-5hl1)
+- [New NPM Package button – Fun &amp; Interactive Buttons for React/Next.js](https://dev.to/emmanuel_saleem_46200ad37/new-npm-package-button-fun-interactive-buttons-for-reactnextjs-4h67)
+- [🚀 Introducing Laravel Chatbot – A simple &amp; powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl)
+- [Laravel package — Social Auth!](https://dev.to/emmanuel_saleem_46200ad37/laravel-package-social-auth-2edb)
+- [🚀 Introducing Laravel Stripe Manager – Manage Stripe Customers, Products &amp; Subscriptions Easily in Laravel](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-stripe-manager-manage-stripe-customers-products-subscriptions-easily-in-3j0l)
 <!-- BLOG-POST-LIST:END -->
 
 ---
